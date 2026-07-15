@@ -6,4 +6,4 @@ caso use esse sourcer lebre-se:
 
 repo original: https://github.com/srzking/site-isabellebot
 
-![Banner](img/banner.png)
+![Banner](img/deploy_music_banner.png)
